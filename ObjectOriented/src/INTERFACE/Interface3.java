@@ -9,15 +9,12 @@ interface demo99{
 
 }
 
-
-
-
 public class Interface3 implements demo99{
     static void main() {
 
         Interface3 obj = new Interface3 ();
 
-        System.out.println(obj.demo_d(21,11));
+        System.out.println(obj.demo_d(22,11));
 
     }
 }
