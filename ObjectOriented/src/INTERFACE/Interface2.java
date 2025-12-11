@@ -2,8 +2,8 @@ package INTERFACE;
 
 interface raj{
 
-    static String name="yash";
-    int a =21;
+    static String name="yash gowdru";
+    int a =22;
     final int usn =11;
     }
 
